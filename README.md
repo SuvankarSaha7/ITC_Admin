@@ -16,3 +16,7 @@ Run the application on your local machine :
 ```
 npm run dev
 ```
+## To get updated Code You need to run this command : 
+```
+git pull
+```
