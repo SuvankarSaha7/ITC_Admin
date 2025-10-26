@@ -1,7 +1,7 @@
 import React from "react";
 import { ShieldCheck, FileText, Workflow, Users, UserCheck } from "lucide-react";
 import { Link } from "react-router-dom";
-import Entitlement from "./Entitlement/Entitlement";
+// import Entitlement from "./Entitlement/Entitlement";
 
 const Dashboard = () => {
   const cards = [

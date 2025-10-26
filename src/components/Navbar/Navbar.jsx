@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import Itclogo from "../../img/Itc_logo.jpg";
+import Itclogo from "../../img/ITC_logo.jpg";
 import { LogIn, LogOut, LayoutDashboard } from "lucide-react";
 
 const Navbar = () => {
